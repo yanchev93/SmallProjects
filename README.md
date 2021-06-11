@@ -1,2 +1,2 @@
 # SmallProjects
-Programs created to automate the manual work in excel.
+Programs created to automate the manual work in excel, eBay & Amazon.
